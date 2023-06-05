@@ -8,9 +8,9 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as Full Stack Developer. 
+- 👨🏽‍💻 I’m currently working as Backend Developer. 
 - 📃 Take a look at my Portfolio [Here](https://turkihaqawi.netlify.app/)
-- 💬 Ask me about Python, JavaScript, React, Node, Express, MongoDB, Git
+- 💬 Ask me about Python, JavaScript, React, Node, Express, MongoDB, Git, GoLang
 - 📫 How to reach me [Turki.haqawii@gmail.com](mailto:Turki.haqawii@gmail.com).
 
 <br>
